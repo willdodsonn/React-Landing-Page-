@@ -1,4 +1,9 @@
-
+.paddingPage{
+   padding: 10px;
+}
+.card-group{
+    width: 60rem;
+}
 /* 
 
     You can write your own styles here...
