@@ -7,12 +7,14 @@ import Card from "./Card.jsx";
 //create your first component
 const Home = () => {
 	return (
-		<div>
+		<div className="col-8 offset-md-2">
 			<Navbar />
-
-			<Jumbotron />
-
-			<Card />
+			<div>
+				<Jumbotron />
+			</div>
+			<div>
+				<Card />
+			</div>
 		</div>
 	);
 };
