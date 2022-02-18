@@ -3,7 +3,7 @@ import React from "react";
 const Navbar = () => {
 	return (
 		<nav className="navbar navbar-dark bg-dark">
-			<div className="container-fluid">
+			<div className="container">
 				<a className="navbar-brand">Navbar</a>
 				<form className="d-flex">
 					<input

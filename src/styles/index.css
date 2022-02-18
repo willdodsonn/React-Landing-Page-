@@ -1,8 +1,15 @@
-.paddingPage{
-   padding: 10px;
-}
+
 .card-group{
-    width: 60rem;
+    width: 80rem;
+    margin: auto;
+}
+.jumbotron.text-center{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.card{
+    padding-right: 45px;
+    border: none;
 }
 /* 
 
