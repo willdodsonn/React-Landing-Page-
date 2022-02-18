@@ -2,14 +2,19 @@
 .card-group{
     width: 80rem;
     margin: auto;
+    padding-top: 40px;
 }
 .jumbotron.text-center{
-    padding-top: 30px;
+    padding-top: 60px;
     padding-bottom: 30px;
 }
 .card{
     padding-right: 45px;
     border: none;
+    padding-bottom: 20px;
+}
+.col{
+    padding-top: 130px;
 }
 /* 
 
